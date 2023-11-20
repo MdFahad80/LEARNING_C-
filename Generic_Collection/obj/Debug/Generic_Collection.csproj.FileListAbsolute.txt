@@ -1,0 +1,7 @@
+F:\C#-Learging\Generic_Collection\bin\Debug\Generic_Collection.exe.config
+F:\C#-Learging\Generic_Collection\bin\Debug\Generic_Collection.exe
+F:\C#-Learging\Generic_Collection\bin\Debug\Generic_Collection.pdb
+F:\C#-Learging\Generic_Collection\obj\Debug\Generic_Collection.csproj.AssemblyReference.cache
+F:\C#-Learging\Generic_Collection\obj\Debug\Generic_Collection.csproj.CoreCompileInputs.cache
+F:\C#-Learging\Generic_Collection\obj\Debug\Generic_Collection.exe
+F:\C#-Learging\Generic_Collection\obj\Debug\Generic_Collection.pdb

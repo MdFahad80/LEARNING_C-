@@ -1,0 +1,7 @@
+F:\C#-Learging\Exception_Handling\bin\Debug\Exception_Handling.exe.config
+F:\C#-Learging\Exception_Handling\bin\Debug\Exception_Handling.exe
+F:\C#-Learging\Exception_Handling\bin\Debug\Exception_Handling.pdb
+F:\C#-Learging\Exception_Handling\obj\Debug\Exception_Handling.csproj.AssemblyReference.cache
+F:\C#-Learging\Exception_Handling\obj\Debug\Exception_Handling.csproj.CoreCompileInputs.cache
+F:\C#-Learging\Exception_Handling\obj\Debug\Exception_Handling.exe
+F:\C#-Learging\Exception_Handling\obj\Debug\Exception_Handling.pdb
